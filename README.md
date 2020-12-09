@@ -1,2 +1,2 @@
-# actions-armbian
-Build Armbian with Github Actions
+# Build Armbian with Github Actions
+
