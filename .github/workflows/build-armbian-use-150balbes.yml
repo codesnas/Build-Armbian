@@ -92,5 +92,5 @@ jobs:
         tag_name: armbian_150balbes_${{ env.FILE_DATE }}
         files: ${{ env.FILEPATH }}/output/images/*
         body: |
-          This is Armbian image.
+          This is Armbian 150balbes image.
 
